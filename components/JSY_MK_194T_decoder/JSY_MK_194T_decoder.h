@@ -3,6 +3,7 @@
 #include "esphome/core/component.h"
 #include "esphome/components/sensor/sensor.h"
 #include "esphome/components/uart/uart.h"
+#include <deque>
 
 namespace esphome {
 namespace JSY_MK_194T_decoder {
